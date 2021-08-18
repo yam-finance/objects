@@ -44,6 +44,10 @@ Yam(0x0AaCfbeC6a24756c20D41914F2caba817C0d8521).getPriorVotes(voter, snapshot)
 +
 Incentivizer(0xD67c05523D8ec1c60760Fd017Ef006b9F6e496D0).getPriorVotes(voter, snapshot)
 ```
+voted before:
+Epoch time 1629309648
+
+**August 18, 2021**
 
 ## Stakers
 
