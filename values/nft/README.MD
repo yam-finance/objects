@@ -1,6 +1,6 @@
 ### Criteria For Groups:
 
-##Farmers
+## Farmers
 
 The OG farmers of Yam.
 
